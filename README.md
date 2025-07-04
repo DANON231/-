@@ -10,7 +10,7 @@ Oracle
 или используйте OpenJDK.
 
 # 2. Откройте PowerShell и перейдите в папку с файлом 
-powershell
+В powershell
 Пример
 cd C:\Users\Имя\OneDrive\Документы\Файл
 
