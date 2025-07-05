@@ -2,9 +2,11 @@
 Проверьте наличие Java, выполнив команду:
 powershell
 java -version
+
 Проверьте наличие компилятора javac:
 powershell
 javac -version
+
 Если команды не распознаются, скачайте и установите JDK с официального сайта
 Oracle
 или используйте OpenJDK.
