@@ -16,7 +16,7 @@ Oracle
 # 2. Откройте PowerShell и перейдите в папку с файлом 
 В powershell
 Пример
-cd C:\Users\Имя\OneDrive\Документы\Файл
+cd C:\Users\Имя\OneDrive\Документы\Практика\PinyinConverter
 
 # 3. Запуск программы
 
